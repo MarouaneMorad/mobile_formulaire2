@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">formulaire_first</string>
+    <string name="navigation_title">Details </string>
+    <string name="full_name">Nom &amp; Prénom</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Adresse</string>
+    <string name="city">Ville</string>
+    <string name="send">Envoyer</string>
+
+    <string-array name="cities">
+        <item>Agadir</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Marrakech</item>
+    </string-array>
+</resources>
